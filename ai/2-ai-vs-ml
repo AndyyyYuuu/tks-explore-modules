@@ -1,0 +1,4 @@
+What's the difference between AI and machine learning? 
+Machine learning is a technique that is used to create some but not all AI. A neural network is fed sets questions and expected responses. Over time, it modifies itself based on patterns recognize in these inputs and is able to better solve these problems. 
+AI is a general term for any program used to mimic intellegence. It can include traditional algorithms like Minimax but also machine learning. 
+Here's an analogy: AI is a class full of math students preparing for a test. Some prefer to memorize every formula in the textbook, but machine learning is this one kid who practices large amount of questions and checks the answers to get better. 
