@@ -1,0 +1,3 @@
+Deep Learning vs Neural Networks
+An artificial neural network is a network of simulated neurons. Each neuron has adjustable weights for its inputs and will output data to other neurons. 
+Deep learning describes a neural network with more than three layers. It can process more complex tasks requiring large amounts of data, like image recognition. 
