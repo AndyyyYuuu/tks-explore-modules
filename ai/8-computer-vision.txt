@@ -1,0 +1,2 @@
+Obvious example of a company using computer vision: Tesla. 
+These guys use computer vision to gather data on the road to aid self-driving. My cousin has a Tesla that can enter a hands-off mode if it detects a long, straight highway ahead. Full self-driving is still in testing though. 
