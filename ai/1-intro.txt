@@ -1,0 +1,5 @@
+Exploring AI with TKS's program here. I'm using text files instead of twitter (or "X") cause why not. 
+I've already followed some PyTorch tutorials over the summer, but I'm looking for two things here: 
+1) A better understanding of the concepts and math behind neural networks, which currently seem uncomprehensible to my tiny brain. 
+2) An overview of the real-world applications of AI. 
+Let's get started :)
