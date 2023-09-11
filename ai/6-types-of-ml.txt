@@ -1,0 +1,4 @@
+Supervised vs Unsupervised vs Reinforcement Learning
+Supervised Learning: Feeding a dataset to a model with expected outputs. The model modifies itself to better fit the expected output. Example: image classification. 
+Unsupervised Learning: The model finds patterns on its own, without correct/incorrect inputs and outputs. Example: clustering data points. 
+Reinforcement Learning: The model does a task in an environment, and based on its rewards and punishments, tries again and again with modified methods. Example: simulating walking/playing sports. 
