@@ -1,0 +1,1 @@
+NVIDIA has developed GPU hardware specifically for processing AI. This has allowed AI to greatly optimize computer graphics. 

@@ -1,0 +1,1 @@
+I find DeepMind's AlphaFold to be the most fascinating application of generative AI. Recently, Alpha fold calculated the structures of some 200 million unknown proteins. Just imagine what you could do in the medical field with all these new proteins. 
